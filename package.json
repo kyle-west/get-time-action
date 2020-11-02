@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nanzm/get-time-action.git"
+    "url": "git+https://github.com/kyle-west/get-time-action.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nanzm/get-time-action/issues"
+    "url": "https://github.com/kyle-west/get-time-action/issues"
   },
-  "homepage": "https://github.com/nanzm/get-time-action#readme",
+  "homepage": "https://github.com/kyle-west/get-time-action#readme",
   "dependencies": {
     "@actions/core": "^1.2.3",
     "dayjs": "^1.8.23"
